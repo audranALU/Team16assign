@@ -29,6 +29,8 @@ The system has the following flow:
 6. *(Optional)* **FastAPI Layer** → Provides API endpoints for transactions & analytics.
 
 ###  Architecture Diagram  
+![My First Board](https://github.com/user-attachments/assets/d5f595d0-07b0-4299-abdd-7be21561b50b)
+
    [View Architecture Diagram](https://miro.com/welcomeonboard/M1k2a0Qxa1lLbk9NSU8wVXY0TFd3QnFNMytHRjVSQjNOZ2c2MFlNYU5ORVp1ajJXK3pEL0xMV0Yxd0ZMQzhManlHekN6VG9zR0ZWUGRUQTB0cldyZ2pLMXFoSi9BRjdpcTlqemFBTm10RjBNczlUVWNCTVhHcmY5Z3pmdnMyQzdQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=645786963715)
 
 ---
