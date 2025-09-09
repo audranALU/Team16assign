@@ -37,7 +37,7 @@ The system has the following flow:
 
 ##    Scrum Board  
 We are using a Scrum board to track progress with **To Do, In Progress, Done**.  
-    [View Scrum Board](PASTE-YOUR-SCRUM-BOARD-LINK-HERE)
+    [View Scrum Board]  https://trello.com/invite/b/68c09170cf3b0565f67a0a90/ATTI14f0a815555c11c9c2a910bdd6a0bf9bDF0C557E/momo-sms-etl-dashboard-scrum-board
 
 ---
 
