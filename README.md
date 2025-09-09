@@ -10,10 +10,10 @@ This project processes MoMo SMS data (in XML format), cleans and categorizes tra
 
 
 - **Team Members**:  
-  - Ndayisenga Audran [GitHub handle]  
-  - Shema Emmanuel – [GitHub handle]  
-  - Mihigo Ntaganda Audric [GitHub handle]  
-  - Uwase Ntwali cynthia [GitHub handle]  
+  - Ndayisenga Audran   
+  - Shema Emmanuel 
+  - Mihigo Ntaganda Audric  
+  - Uwase Ntwali cynthia  
 
 ---
 
