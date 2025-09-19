@@ -1,0 +1,25 @@
+Emmanuel Shema
+01:31
+json_schemas.json
+Emmanuel Shema
+01:33
+{
+  "transaction_id": 101,
+  "amount": 5000,
+  "currency": "RWF",
+  "timestamp": "2025-09-19T14:20:00Z",
+  "category": {
+    "category_id": 2,
+    "name": "Bill Payment"
+  },
+  "user": {
+    "user_id": 12,
+    "name": "John Doe",
+    "phone_number": "+250788000111"
+  },
+  "system_log": {
+    "log_id": 55,
+    "status": "Processed",
+    "error_message": null
+  }
+}
