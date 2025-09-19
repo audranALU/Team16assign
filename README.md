@@ -79,6 +79,7 @@ Copy code
 - `scripts/` → Helper scripts to run ETL, export JSON, serve frontend.  
 - `tests/` → Unit tests for ETL steps.
 
-## PDF
-[ERD DESIGN EXPLANATION.pdf](https://github.com/user-attachments/files/22435026/ERD.DESIGN.EXPLANATION.pdf)
+## PDF WITH SCREENSHOTS
+[ERD DESIGN EXPLANATION.pdf](https://github.com/user-attachments/files/22435583/ERD.DESIGN.EXPLANATION.pdf)
+
 
