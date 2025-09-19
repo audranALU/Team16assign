@@ -78,3 +78,7 @@ Copy code
 - `api/` → Optional FastAPI endpoints.  
 - `scripts/` → Helper scripts to run ETL, export JSON, serve frontend.  
 - `tests/` → Unit tests for ETL steps.
+
+
+[ERD DESIGN EXPLANATION.pdf](https://github.com/user-attachments/files/22435026/ERD.DESIGN.EXPLANATION.pdf)
+
