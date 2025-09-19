@@ -23,16 +23,16 @@ Date DATE,
 Sender_id int(11),
 Receiver_id int(11),
 Category_id int(11),
-Foreign key sender_id reference customer(customer_id),
-Foreign key receiver_id reference customer(customer_id),
-Foreign key category_id reference transaction_category(category_id)
+Foreign key (sender_id) references customer(customer_id),
+Foreign key (receiver_id) references customer(customer_id),
+Foreign key (category_id) references transaction_category(category_id)
 );
 
 Create table system_log(
 Log_id int(11) PRIMARY KEY NOT NULL auto_increment,
 System_log_name varchar(255),
 Transaction_id int(11),
-Foreign key transation_id reference transaction(transaction_id)
+Foreign key (Transation_id) references transaction(transaction_id)
 );
 
 CRUD OPERATION
@@ -45,3 +45,4 @@ Select * from transaction;
 
 update transaction set date=’21-10-2025’ where Transaction_id = ‘1’;
 delete from customer where customer_id = ‘1’;
+
