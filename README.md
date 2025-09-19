@@ -18,7 +18,7 @@ This project processes MoMo SMS data (in XML format), cleans and categorizes tra
 ---
 
 ## DATABASE DESIGN EXPLANATION
-I  am designing this database of momo app to receive and send money and also get reports and logs to explain and justify every transaction and actions made by users/customers. The main goal and purpose of this is to ensure scalability, integrity, and clear representation of these business requirements. As in the diagram I used one entity of customer for sender/receiver it represents all system users since both sender and receiver are customers.
+We are designing this database of momo app to receive and send money and also get reports and logs to explain and justify every transaction and actions made by users/customers. The main goal and purpose of this is to ensure scalability, integrity, and clear representation of these business requirements. As in the diagram I used one entity of customer for sender/receiver it represents all system users since both sender and receiver are customers.
 
 The transaction entity is there to record all money movements and it has sender/receiver information and also category_id and shows final activities. It includes transaction_id, amount, date, And those foreign keys  linking to customer and transaction_category entity.
  Additionally, each transaction references a Transaction_Category, which classifies activities (e.g., deposits, transfers, payments). This normalization supports efficient analysis and future expansion if more categories are introduced.
